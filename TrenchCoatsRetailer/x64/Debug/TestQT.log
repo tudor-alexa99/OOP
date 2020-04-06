@@ -1,0 +1,6 @@
+﻿  ReadFromFile.cpp
+c:\users\lenovo\source\repos\testqt\testqt\readfromfile.cpp(15): warning C4129: 'L': unrecognized character escape sequence
+c:\users\lenovo\source\repos\testqt\testqt\readfromfile.cpp(15): warning C4129: 's': unrecognized character escape sequence
+c:\users\lenovo\source\repos\testqt\testqt\readfromfile.cpp(15): warning C4129: 'T': unrecognized character escape sequence
+c:\users\lenovo\source\repos\testqt\testqt\readfromfile.cpp(15): warning C4129: 'i': unrecognized character escape sequence
+  TestQT.vcxproj -> C:\Users\Lenovo\source\repos\TestQT\x64\Debug\TestQT.exe

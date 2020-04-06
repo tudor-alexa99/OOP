@@ -1,0 +1,2 @@
+40,Navy,28,140,photo
+40,Blue,10,120,photo
