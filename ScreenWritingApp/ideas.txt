@@ -1,0 +1,4 @@
+description1  proposed George 2
+description2  accepted Penelope 3
+description3  proposed  Peter 2 
+description4  accepted  Peter 1
